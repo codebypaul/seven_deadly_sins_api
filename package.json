@@ -1,0 +1,30 @@
+{
+  "name": "first_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebypaul/first_api.git"
+  },
+  "keywords": [],
+  "author": "Paul Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codebypaul/first_api/issues"
+  },
+  "homepage": "https://github.com/codebypaul/first_api#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.8",
+    "puppeteer": "^5.5.0",
+    "request": "^2.88.2"
+  }
+}
