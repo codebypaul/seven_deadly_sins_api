@@ -18,7 +18,8 @@ const characterSchema = new mongoose.Schema({
     affiliation: String,
     weapons: [String],
     abilities: [abilitySchema],
-    imgUrl: String
+    imgUrl: String,
+    order:String
 })
 
 module.exports = mongoose.model('Character', characterSchema)

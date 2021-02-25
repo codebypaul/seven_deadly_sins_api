@@ -1,8 +1,8 @@
 const router = require('express').Router()
-const scraper = require('../scraper')
+// const scraper = require('../scraper')
 const Character = require('../models/Character')
-const cheerio = require('cheerio')
-const request = require('request')
+// const cheerio = require('cheerio')
+// const request = require('request')
 
 // desc
 // route
