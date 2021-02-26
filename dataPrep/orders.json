@@ -1,0 +1,72 @@
+[
+    {
+        "name":"Seven Deadly Sins",
+        "members":[
+            "Meliodas",
+            "Ban",
+            "Merlin",
+            "Escanor",
+            "Gowther",
+            "Diane",
+            "King"
+
+        ]
+    },
+    {
+        "name":"Ten Commandments",
+        "members":[
+            "Zeldris",
+            "Esterossa",
+            "Galand",
+            "Fraudrin",
+            "Derieri",
+            "Drole",
+            "Gloxinia",
+            "Grayroad",
+            "Monspeet",
+            "Melascula"
+        ]
+    },
+    {
+        "name":"Four Archangels",
+        "members":[
+            "Ludociel",
+            "Sariel",
+            "Tarmiel",
+            "Mael"
+        ]
+    },
+    {
+        "name":"Weird Fangs",
+        "members":[
+            "Friesia",
+            "Golgius",
+            "Jude",
+            "Ruin"
+        ]
+    },
+    {
+        "name":"Pleiades of the Azure Sky",
+        "members":[
+            "Arden",
+            "Deathpierce",
+            "Deldry",
+            "Denzel Liones",
+            "Dogedo",
+            "Waillo"
+        ]
+    }
+    // ,
+    // {
+    //     "name":"",
+    //     "members":[
+    //         ""
+    //     ]
+    // },
+    // {
+    //     "name":"",
+    //     "members":[
+    //         ""
+    //     ]
+    // },
+]

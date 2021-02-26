@@ -1,5 +1,5 @@
 const router = reuire('express').Router()
-const Ability = require('../models/Ability')
+const Clan = require('../models/Ability')
 
 
 module.exports = router
